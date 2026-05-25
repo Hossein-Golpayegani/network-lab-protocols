@@ -19,20 +19,22 @@ The exercises were performed using:
 
 ## 📁 Lab Overview
 
-| # | Topic | Technologies |
-|---|--------|-------------|
-| 01 | Static Routing | Routers, Static Routes |
+| # | Thema | Technologien |
+|---|-------|-------------|
+| 00 | Network Planning | Network Design, Documentation |
+| 01 | Statisches Routing | Router, Static Routes |
 | 02 | DHCP | DHCPv4, Relay Agent |
 | 03 | VLAN | VLANs, Trunking |
-| 04 | Layer 3 Switching | Inter-VLAN Routing |
-| 05 | RIP / RIPv2 | Routing Protocols |
-| 06 | OSPF | OSPF, Redundant Routing |
-| 07 | GRE Tunnel | GRE, Static Routing |
+| 04 | VLAN & Layer3-Switch | Inter-VLAN Routing |
+| 05 | RIP / RIPv2 | Routing Protokoll |
+| 06 | OSPF | OSPF, Redundantes Routing |
+| 07 | GRE Tunnel | GRE, Static Routes, ISP |
 | 08 | ACL | Standard IPv4 ACLs |
 | 09 | IPv6 / DHCPv6 | SLAAC, Stateless DHCPv6 |
-| 10 | SNMP | Network Monitoring |
-| 11 | Wireshark | Network Analysis & Troubleshooting |
-| 12 | OpenPGP | Encryption & Security |
+| 10 | SNMP | SNMP v1, Monitoring |
+| 11 | Wireshark | Netzwerkanalyse, Troubleshooting |
+| 12 | OpenPGP | Verschlüsselung, IT-Sicherheit |
+| 13 | Subnetting | IP-Planung, Subnetting |
 
 ---
 
